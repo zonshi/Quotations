@@ -6,4 +6,6 @@
 
 ## 成功学
 
+[重要的理念](successes/important.md)
+
 [赢家六条基本法则](successes/quotation1.md)
