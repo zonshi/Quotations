@@ -9,3 +9,5 @@
 [重要的理念](successes/important.md)
 
 [赢家六条基本法则](successes/quotation1.md)
+
+[赢家的简单法则](successes/quotation2.md)
